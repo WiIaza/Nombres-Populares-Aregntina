@@ -1,2 +1,2 @@
 # Nombres-Populares-Aregntina
-Visualización de tipo Bar chart race para la evolución en popularidad de nombres registrados en Argentina.
+El resultado final es un video gráfico del tipo "Racing Bar Chart", utilizando la plataforma [Flourish](https://flourish.studio/) para ver la evolución en popularidad de nombres en Argentina entre 1922 y 2015, realizando limpieza y transformación de los [registros nacionales de personas](https://www.datos.gob.ar/dataset/otros-nombres-personas-fisicas/archivo/otros_2.1) distribuidos por el gobierno publicamente. Este proceso se puede ver paso a paso en el archivo "NombresPopulares _RacingBarChart.ipynb", junto con el [resultado final.](https://public.flourish.studio/visualisation/17097755/)
